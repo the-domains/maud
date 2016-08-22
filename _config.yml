@@ -1,0 +1,14 @@
+layout_spectrum: 0.30261101108044386
+typography_spectrum: 0.09193472960032523
+color:
+  brandStrength: 0.656962507404387
+  lightness: 0.8681218319106847
+  saturation: 0.35342565877363086
+  rhythmicContrast: 0.47486760397441685
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Maud
